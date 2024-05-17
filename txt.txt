@@ -1,0 +1,25 @@
+nannimagi
+EvjuuB1TdGrkQTiY
+mongodb+srv://nannimagi:<password>@cluster0.r7hboj9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+singers
+Adele
+Shakira
+Jenifer Lopez
+Ricky Martin
+AC-DC
+Residente
+INFO:
+Imagen
+Nombre
+songs []
+
+
+Songs (arrys de juegos para diferentes platadformas)
+INFO:
+Nombre
+Imagen
+Categoria
+
+Usuario:
